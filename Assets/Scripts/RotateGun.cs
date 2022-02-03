@@ -11,7 +11,7 @@ public enum DirectionRotate
     Left,
     Right
 }
-public class RotateBaseGun : MonoBehaviour, IPointerDownHandler, IPointerUpHandler
+public class RotateGun : MonoBehaviour, IPointerDownHandler, IPointerUpHandler
 {
     public Transform transform;
     public DirectionRotate direction;
