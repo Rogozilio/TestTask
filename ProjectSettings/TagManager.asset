@@ -4,8 +4,9 @@
 TagManager:
   serializedVersion: 2
   tags:
-  - Cube
-  - Circle
+  - Computer
+  - Wall
+  - Projectile
   layers:
   - Default
   - TransparentFX

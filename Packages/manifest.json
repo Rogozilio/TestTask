@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "com.h8man.2d.navmeshplus": "https://github.com/h8man/NavMeshPlus.git",
     "com.unity.burst": "1.4.11",
     "com.unity.collab-proxy": "1.9.0",
     "com.unity.dots.editor": "0.12.0-preview.6",
